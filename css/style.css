@@ -1,0 +1,43 @@
+html {
+    background-color: rgb(220, 240, 212);
+}
+
+.ingredient-info {
+    color: rgb(130, 125, 125);
+}
+
+.ingredient-name{
+    color: blue;
+}
+
+.value{
+    color: black;
+}
+
+p {
+    color:rgb(104, 6, 232);
+}
+
+h2 {
+    color: rgb(246, 113, 24);
+}
+
+a {
+    color: rgb(255, 0, 0);
+}
+.instructions{
+    color: #3f3f3f;
+    font-family: Arial,sans-serif;
+    font-size: 15px;
+    line-height: 1.35em;
+    font-weight: 400;
+    overflow-wrap: break-word;
+    list-style: none;
+    }
+
+.block {
+    width: 330px;
+    background-color: rgb(181, 241, 236);
+    border: 2px solid rgb(128, 119, 119);
+    padding: 0px 10px 20px 30px;
+}
